@@ -1,6 +1,6 @@
-# Prashant Krovvidi — Portfolio Website
+# LifeWithPies — Portfolio Website
 
-Personal portfolio site for Prashant Krovvidi, Sr. Engineer specializing in AI/ML & Quantum Computing.
+Personal portfolio site for a Sr. Engineer specializing in AI/ML & Quantum Computing.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -12,15 +12,14 @@ A static portfolio site showcasing data engineering, analytics, and automation p
 
 ## Live Site
 
-> **TODO:** Add your deployed URL here (GitHub Pages, Netlify, etc.)
-> Example: `https://prashantkrs.github.io/portfolio_website`
+`https://lifewithpies.github.io/portfolio_website`
 
 ## Projects Showcased
 
 | Project | Stack | Link |
 |---|---|---|
-| Data Cleaning & Transformation in SQL | SQL Server, ETL | [GitHub](https://github.com/PrashantKrs/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql) |
-| Amazon Price Scraper | Python, BeautifulSoup, Automation | [GitHub](https://github.com/PrashantKrs/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb) |
+| Data Cleaning & Transformation in SQL | SQL Server, ETL | [GitHub](https://github.com/LifeWithPies/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql) |
+| Amazon Price Scraper | Python, BeautifulSoup, Automation | [GitHub](https://github.com/LifeWithPies/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb) |
 | COVID-19 Forecast Dashboard | Tableau, Forecasting, Data Viz | [Tableau Public](https://public.tableau.com/app/profile/prashant7058/viz/CovidForecastDashboard_16776347612430/Dashboard1) |
 | AirBnB Price Tracker | Tableau, Geospatial, Analytics | [Tableau Public](https://public.tableau.com/app/profile/prashant7058/viz/AirBnBPriceTracker/Dashboard1) |
 
@@ -76,6 +75,5 @@ sass assets/sass/main.scss assets/css/main.css --watch
 
 ## Contact
 
-- LinkedIn: [prashantkrovvidi](https://www.linkedin.com/in/prashantkrovvidi/)
-- GitHub: [PrashantKrs](https://github.com/PrashantKrs)
-- Email: prashant_krs@outlook.com
+- LinkedIn: [LifeWithPies](https://www.linkedin.com/in/lifewithpies/)
+- GitHub: [LifeWithPies](https://github.com/LifeWithPies)
