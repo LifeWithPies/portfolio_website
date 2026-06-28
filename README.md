@@ -12,7 +12,7 @@ A static portfolio site showcasing data engineering, analytics, and automation p
 
 ## Live Site
 
-`https://lifewithpies.github.io`
+`https://lifewithpies.github.io/portfolio_website`
 
 ## Projects Showcased
 
